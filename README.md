@@ -1,4 +1,4 @@
-# My Skinologist - API
+# MS: API
 
 ## Required
 
